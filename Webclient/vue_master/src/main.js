@@ -48,7 +48,7 @@ const routes = [
     name: 'messwerte',
   },
   {
-    path: '/:user/register',
+    path: '/register',
     component: RegisterComp,
     name: 'register',
   },
