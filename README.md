@@ -14,7 +14,7 @@
     - [Frank Fabian](https://github.com/fabianfrank1)
 -NodeJS
     - [Thomas Emminger](https://github.com/emt1803)
-    - [Etzlstorfer Stefan](https://github.com/StefanEtz)
+    - [Etzelstorfer Stefan](https://github.com/StefanEtz)
     - [Haas Stefan](https://github.com/HaasStefan)
     - [Koppler Marc](https://github.com/MarcKoppler)
 - Webclient / VueJS
