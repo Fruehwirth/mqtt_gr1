@@ -16,6 +16,7 @@
     - [Thomas Emminger](https://github.com/emt1803)
     - [Etzlstorfer Stefan](https://github.com/StefanEtz)
     - [Haas Stefan](https://github.com/HaasStefan)
+    - [Koppler Marc](https://github.com/MarcKoppler)
 - Webclient / VueJS
     - [Fettinger Maximilian](https://github.com/fettinger-m)
     - [Kaser Michael](https://github.com/michaelkaser)
