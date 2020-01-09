@@ -15,7 +15,6 @@
 - NodeJS
     - [Thomas Emminger](https://github.com/emt1803)
     - [Koppler Marc](https://github.com/MarcKoppler)
-- Nichts
     - [Etzelstorfer Stefan](https://github.com/StefanEtz)
     - [Haas Stefan](https://github.com/HaasStefan)
 - Webclient / VueJS
